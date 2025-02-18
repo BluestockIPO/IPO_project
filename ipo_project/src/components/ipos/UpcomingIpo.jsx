@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./UpcomingIpo.css";
+import "../../styles/UpcomingIpo.css";
 import IpoCard from "./IpoCard"; // Import IPO Card component
 
 const ipoData = [

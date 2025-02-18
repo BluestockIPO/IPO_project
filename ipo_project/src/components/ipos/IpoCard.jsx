@@ -1,5 +1,6 @@
 import React from "react";
-import "./IpoCard.css"; // Separate CSS for card
+import "../../styles/IpoCard.css";
+ // Separate CSS for card
 
 const IpoCard = ({ ipo }) => {
   return (

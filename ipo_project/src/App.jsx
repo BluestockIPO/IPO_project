@@ -1,7 +1,7 @@
 import React from 'react';
-import Navbar from './Navbar';
-import './App.css'
-import UpcomingIpo from './UpcomingIpo'
+import Navbar from './components/Navbar';
+import "./styles/App.css";
+import UpcomingIpo from './components/ipos/UpcomingIpo'
 
 function App() {
   return(
